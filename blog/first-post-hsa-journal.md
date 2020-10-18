@@ -10,3 +10,5 @@ I have decided to track my progress online for the duration of the HSA module.
 This is a first post and a test.
 
 Veronique
+
+#### Edit: Added login
