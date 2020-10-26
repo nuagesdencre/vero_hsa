@@ -49,3 +49,18 @@ Toups, Z. O., Crenshaw, N. K., Wehbe, R. R., Tondello, G. F., & Nacke, L. E. (20
 >We would, overall, argue for a unified system toaccumulate player-curated collections across games.   As astarting point, we recommend that individual games supportcollections in way that are meaningful to players in accordancewith the design implications of enabling curation, preservingrules and mechanics, preserving context of play, and enabling sharing.
 ____
 
+Geisler, G., Giersch, S., Mcarthur, D., & Mcclelland, M. (2002). Creating Virtual Collections in Digital Libraries: Benefits and Implementation Issues.
+
+>Digital  libraries  have  the  potential  to  not  only  duplicate  many  of  the  services  provided  by  traditional  libraries  but  to  extend  them.  
+
+>Virtual collections encourage us to see a digital repository not as a unitary structure, but as a modular construction comprising many sets of resources, some small and others large, some separate and others      overlapping,   some   stable   and   others   transient,   some   defined  by  the  library  managers  and  others  established  by  library  users.
+____
+Wolff, A., & Mulholland, P. (2013). Curation, Curation, Curation. http://www.bethkanter.org/content-curation-101/
+
+> Importantly,  the  curator  offers  an  interpretation  of  the how the objects relate to one another. Essentially, they tell a story: about  a  period  in  history, about  a  culture, the  life of  an  artist, about  scientific  discovery.
+
+> Constructivist  views  of  learning [4].  Instead  of  imposing  a grand narrative  for  a  visitor  to  passively  experience,  the  visitor  is encouraged  to  actively  explore  and  build  their  own  connections and stories and, in the process of active engagement, to learn [6]
+
+> Contrasting   this   with   many   social   curation   tools   thatfacilitate nothing more than collection, a conclusion can be drawn that many social curation tools do not fully exploit the potential of curation, even those that are targeted towards learners
+
+> What stage of curation is best (e.g. most effective) for support:  the  collection  stage  which  filters  out  bad  or  irrelevant content  and  highlights  the  most  useful,  or  a  fully  curated  output where  the  content  is  ordered  according  to  an  underlying  logic  of how  the  items  are  linked,  including  the  original  learners  own explanations
