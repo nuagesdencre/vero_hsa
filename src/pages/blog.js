@@ -1,10 +1,11 @@
 import React from 'react'
-
+import Container from '@material-ui/core/Container';
 import BlogRoll from '../components/BlogRoll'
 
 export default class BlogIndexPage extends React.Component {
   render() {
     return (
+      <Container maxWidth="sm">
       <React.Fragment>
         <h1>Latest Posts</h1>
         <section>
@@ -12,7 +13,7 @@ export default class BlogIndexPage extends React.Component {
             <BlogRoll />
           </div>
         </section>
-      </React.Fragment>
+      </React.Fragment></Container>
     )
   }
 }
