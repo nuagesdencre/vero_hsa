@@ -1,7 +1,7 @@
 import React from "react"
-import Container from "@material-ui/core/Container"
+import { Typography, Container } from "@material-ui/core"
 import CssBaseline from "@material-ui/core/CssBaseline"
-import Button from '@material-ui/core/Button';
+import Button from "@material-ui/core/Button"
 import { Link } from "gatsby"
 import picture from "../../static/assets/verobw.png"
 
@@ -12,22 +12,22 @@ const imgStyle = {
   maxWidth: "300px",
 }
 
-
 export default () => {
   return (
     <>
       {" "}
       <CssBaseline />
-      <Container maxWidth="sm" >
-        {" "}
-        <h2>Welcome to my HSA Journal!</h2>
-        <img src={picture} alt="Veronique" style={imgStyle}></img>
-        <p>Profile: Veronique Savard</p>
-        <p>2020/2021 HSA Researching Interactions with Technology</p>
-        <Button variant="outlined" color="secondary">
-          <Link to="/blog">View Blog</Link>
-        </Button>
-        {/* <p><Link to="/account">My Account</Link></p> */}
+      <Container maxWidth="sm">
+        <Typography variant="body2" color="textSecondary" align="center">
+          {" "}
+          <h2>Welcome to my HSA Journal!</h2>
+          <img src={picture} alt="Veronique" style={imgStyle}></img>
+          <p>Profile: Veronique Savard</p>
+          <p>2020/2021 HSA Researching Interactions with Technology</p>
+          <Button variant="outlined" color="secondary">
+            <Link to="/blog">View Blog</Link>
+          </Button>
+        </Typography>
       </Container>
     </>
   )

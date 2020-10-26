@@ -1,5 +1,5 @@
 ---
-path: blog/research/1
+path: /blog/research/1
 date: 2020-10-26T18:46:24.607Z
 title: Proposed title and research outline
 ---
