@@ -10,6 +10,7 @@ I have decided to track my progress online for the duration of the HSA module.
 This is a first post and a test.
 
 Veronique
+![Veronique's picture](./src/static/assets/verobw.png)
 
 I am currently looking into a question. More specifically, the research question.
 
