@@ -1,5 +1,5 @@
 ---
-path: /blog/research/2
+path: /blog/meetings/1
 date: 2020-11-06T20:24:42.607Z
 title: Catchup with my supervisor
 ---
@@ -21,9 +21,9 @@ Note for future calls
     - I needed to narrow down the focus of my research.
     Going through the proposal, I came to the conclusion that amidst the many angles approached, the _curation_ one is to be explored.
 
-    Reformulating the research question as *'how can streaming services fulfill the emotional connection that Millenials experience with curated physical music collections?'*
+    Reformulating the research question as *'Do Millenials experience a similar emotional connection between their curated physical music collections and music curation using streaming services and playlists?'*
 
-    - Firstly, I need to find out the key elements that establish an emotional connection. I have to clearly establish what constitutes a _collection_ versus an accumulation of music. I also need to relate how playlists compare to albums. Lastly, I have to explain clearly what  curation entails.
+    - Firstly, I need to find out the key elements that establish an emotional connection. I have to clearly establish what constitutes a _collection_ versus an _accumulation_ of music. I also need to relate how playlists compare to albums. Lastly, I have to explain clearly what  curation entails.
 
     - I also need to gather data to compare and contrast how people interact with their physical music collection versus streaming music using online services.
 
@@ -38,27 +38,31 @@ ___
 
 Based on the above, to make sure the data gathered is valid, I want to target a poll of subjects that:
 
-   - fall in the _millenial_ group (born in the years 1980–2000). Subjects that are not millenials but are not part of a vulnerable group (ages over 18 and under 65) are also acceptable.
+   - fall in the _Millenial_ group (born in the years 1980–2000). Subjects that are not millenials but are not part of a vulnerable group (ages over 18 and under 65) are also acceptable.
   - are passionate about music
   - own physical music records (CDs, vinyls, etc.) and use online streaming services
   - listen to music regularly
 ___
 
-## Research methods and approach - updated
+## Research methods and approach - draft
 
 - 1 / questionnaire
   - to first reach out and identify the relevant pool of subjects; data gathered expeected to be mostly quantitative; extend invitation to participate further in the research study
-- 2 / diary studies (dscout.com)
-  - connect with a small sample of people to gather data over the course of 1 to 2 weeks relevant to their interaction with music; both qualitative and quantitative data
+
+- 2 / focus group
+- 3 / semi-structured interviews
+  Both methods will be relevant to consolidate data gathered thus far and further explore the emotional connection experience from an individual and a social (group) point of view
 
 **Depending on the data accumulated so far**
-- 3 / focus group
-- 4 / semi-structured interviews
-  - to consolidate data gathered thus far and further explore the emotional connection experience from an individual and a social (group) point of view
+- 4 / diary studies (dscout.com, other online diary resource)
+  - connect with a small sample of people to gather data over the course of 1 to 2 weeks relevant to their interaction with music; both qualitative and quantitative data
+    - Possibility to extract data from Spotify
+    - WhatsApp Check In for physical music use?
 
-> This approach to data collection methods is structured as:
->- It might be more realistic to focus on 2 research methods, however based on findings and resources, an additional research method might be beneficial
->- Because individual and group perspectives are important for the  research, a focus group might offer additional insight especially in terms of context and buying/streaming behaviours
+This approach to data collection methods is structured as:
+
+  - It might be more realistic to focus on 2 research methods, however based on findings and resources, an additional research method might be beneficial
+  - Because individual and group perspectives are important for the  research, a focus group might offer additional insight especially in terms of context and buying/streaming behaviours
 
 Moreover, I have to define how I measure the emotional connection or satisfaction during the interaction of a subject with his/her music. 
   - suggestion: likert scale

@@ -3,6 +3,8 @@ path: /blog/research/1
 date: 2020-10-26T18:46:24.607Z
 title: Proposed title and research outline
 ---
+## This proposal is outdated as of November 6th 2020. 
+___
 **Updated Title:**
 
 Analysing how music consumers can relate to the music they access using current streaming services as they would with personal music collections
