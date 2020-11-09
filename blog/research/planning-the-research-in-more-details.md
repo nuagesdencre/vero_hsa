@@ -38,22 +38,34 @@ Using methodological triangulation to draw data from different sources at differ
 A pilot study will be conducted with a limited number of participants (likely peers) as a trial to ensure the methods are viable. The pilot study participants will not be involved in the main study of course.
 
 #### *Data collection methods*
- - Questionnaire
 
- - Semi-structured interviews
-I will have a basic script and cover the same key elements with all interviewees. I will rely on probes and prompts to get more  elaborated information.
-The interviews will be recorded (audio and video). The interviewees will not be anonymous. The data issued from the study will however be anonymised.
-The limitation of this method: online conversation; limited view of body language
+- Questionnaire
+ 
+  A questionnaire will be presented to any participants answering the call to action. The questionnaire will take approximatively 5 to 7 minutes to complete.
 
- - Focus group
-Depending on the data gathered so far, it might be relevant to have more than one focus group -- especially if I want to separate representative sample of the population. The session(s) will be recorded (audio and video) for a follow-up analysis and transcription. In order to keep the conversation between participants flowing, I will abstain from taking notes and simply guide the participants in their discussion.
-Because the focus group session(s) will be recorded and the participants will not be anonymous. The data issued from the study will however be anonymised.
-The limitation of this method: online conversation; limited view of body language; participants might have submissive or dominant personalities disrupting the conversation
+- Semi-structured interviews and Focus groups
+
+  I will build on the existing data gathered during the survey by conducting semi-structured interviews and a focus group in turn.
+
+  - Interviews
+    
+    I will have a basic script and cover the same key elements with all interviewees. I will rely on probes and prompts to get more elaborated information.
+    The interviews will be recorded (audio and video). The interviewees will not be anonymous. The data issued from the study will however be anonymised.
+    The limitation of this method: online conversation; limited view of body language
+
+  - Focus group
+  
+    Depending on the data gathered so far, it might be relevant to have more than one focus group -- especially if I want to separate representative sample of the population. The session(s) will be recorded (audio and video) for a follow-up analysis and transcription. In order to keep the conversation between participants flowing, I will abstain from taking notes and simply guide the participants in their discussion.
+    Because the focus group session(s) will be recorded and the participants will not be anonymous. The data issued from the study will however be anonymised.
+    The limitation of this method: online conversation; limited view of body language; participants might have submissive or dominant personalities disrupting the conversation
 
 **if required for further data collection**
  - Diary Studies
-  - Extraction of the past month's data from Spotify
-  - WhatsApp or text message check in when using physical music
+
+    As a possible mean of supporting the data gathered thus far, I will invite a limited amount of participants to track their interaction with music via a diary study.
+
+    - Extraction of the past month's data from Spotify
+    - WhatsApp or text message check in when using physical music
 
 ### Details on participants
  `How they are recruited; what, if any, incentives will be given; where participants will be interviewed or tested; duration of the testing/interview period.`
