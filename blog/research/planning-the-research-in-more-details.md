@@ -1,19 +1,24 @@
 ---
-path: /blog/readings/4
+path: /blog/research/3
 date: 2020-11-07T11:33:11.634Z
-title: PLanning the research in more details
+title: Planning the research in more details
 ---
 
-## Planning the research in more details
+### **Project Name**
 
-### **Project Name**: Analysis of the emotional connection music consumers experience with their interaction of physical music collections and streamed online playlists
+ Compare and contrast the emotional connection that music consumers experience with physical music collections and music streaming services
 
-### **Research Question**: _Why do Millenials experience a greater emotional connection with their curated physical music collections compared to streaming services and playlists?_
+
+### **Research Question**
+
+Why do Millenials experience a greater emotional connection with their curated physical music collections compared to streaming services and playlists?
+
 
 ### Research Aim: 
-`the aims and justification for the research`
 
-Compare and constrast the interaction of music consumers with their physical music collection and online streaming playlists 
+
+Based on existing literature, collectors feel very strongly about their physical possessions even at a time where artifacts tend to become digital. I want to compare and contrast the emotional relationship of music consumers with their physical music collection and online streaming playlists to establish if going forward, technology can bridge that emotional connection gap.
+
 
 ### Project plan
 
@@ -27,6 +32,7 @@ Data analysis March 2021
 ### Design and methodology
 
 `Description of data collection methods and instruments; explanation of how reliability and validity will be assessed/how the quality of the project will be assessed; what method of data analysis is to be utilised.`
+
 Using methodological triangulation to draw data from different sources at different times using a variety of data gathering techniques. While it might not be possible to achieve true triangulation, this approach might permit different insights from the data analysis that ensues.
 
 A pilot study will be conducted with a limited number of participants (likely peers) as a trial to ensure the methods are viable. The pilot study participants will not be involved in the main study of course.
@@ -51,9 +57,8 @@ The limitation of this method: online conversation; limited view of body languag
 
 ### Details on participants
  `How they are recruited; what, if any, incentives will be given; where participants will be interviewed or tested; duration of the testing/interview period.`
-Study population
 
-- For the different data gathering methods, the aim is to trickle down the number of participants. 
+Study population - trickle down participants
 
   For the questionnaire: sample target of 100-400 people 
   For the semi-structured interviews: 5 to 8 people
@@ -98,7 +103,48 @@ ___
 
 Bibliography
 
-Sharp, Helen, et al. Interaction Design : Beyond Human-Computer Interaction, John Wiley & Sons, Incorporated, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/dcu/detail.action?docID=5746446.
+Sharp, Helen, et al. Interaction Design : Beyond Human-Computer       Interaction, John Wiley & Sons, Incorporated, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/dcu/detail.action?docID=5746446.
 Created from dcu on 2020-11-08 08:01:50.
 
 Caine, K. (2016). Local Standards for Sample Size at CHI. Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, 981–992. https://doi.org/10.1145/2858036.2858498 (7 November 2020)
+
+Vlachos, P., & Vrechopoulos, A. (2004). _Emerging Customer Trends Towards Mobile Music Services_. www.mad.gr (Accessed 2 November 2020)
+
+Bell, J, & Waters, S (2014), _Doing Your Research Project : A Guide For First-Time Researchers_, McGraw-Hill Education, Milton Keynes. Available from: ProQuest Ebook Central. (2 November 2020).
+
+Caine, K. (2016). Local Standards for Sample Size at CHI. Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, 981–992. https://doi.org/10.1145/2858036.2858498 (2 November 2020)
+
+Golsteijn, C., Van Den Hoven, E., Frohlich, D., & Sellen, A. (2012). _Towards a more cherishable digital object_. Proceedings of the Designing Interactive Systems Conference, DIS ’12, 655–664. https://doi.org/10.1145/2317956.2318054 (Access 2 November 2020)
+
+Csikszentmihalyi, M. & Rochberg-halton, E. (1981) The Meaning of Things: Domestic Symbols and the Self. Cambridge: Cambridge University Press. (n.d.)
+
+Jung, H., et al. How Deep Is Your Love: Deep Narratives of Ensoulment and Heirloom Status.International Journal of Design 5, 1 (2011), 59-71. 
+  
+Kirk, D.S. and Sellen, A. On human remains: Values and practice in the home archiving of cherished objects.ACM Transactions on Computer-Human Interaction 17, 3 (2010), 1-43.
+
+Odom, W., et al. Understanding why we preserve some things and discard others in the context of interaction design. In Proc. CHI 2009, ACM Press (2009), 1053-1062. 
+  
+Odom, W., Zimmerman, J., and Forlizzi, J. Teenagers and their virtual possessions: design opportunities and issues. In Proc. CHI 2011, ACM Press (2011), 1491-1500. 
+
+Petrelli, D. and Whittaker, S. Family memories in the home: contrasting physical and digital mementos.Personal Ubiquitous Computing 14, 2 (2010), 153-169. 
+
+Petrelli, D., Whittaker, S., and Brockmeier, J. AutoTopography: what can physical mementos tell us about digital memories? In Proc. CHI 2008, ACM Press (2008), 53-62. 
+
+Mäntymäki, M., & Islam, A. K. M. N. (2015). Gratifications from using freemium music streaming services: Differences between basic and premium users.
+
+Belk, R. W. 1988. Possessions and the Extended Self. Journal of Consumer Research, 15, 2, 139-168. 
+
+Wirfs-Brock, J., Mennicken, S., & Thom, J. (2020, April 21). Giving Voice to Silent Data: Designing with Personal Music Listening History. Conference on Human Factors in Computing Systems - Proceedings. https://doi.org/10.1145/3313831.3376493
+.
+
+Ng, J., & Yew, J. (2017). Why download when you can stream? The experience of collecting music in the streaming age. ACM International Conference Proceeding Series, Part F129310, 28–33. https://doi.org/10.1145/3077343.3077346
+  
+Kleine, S., Baker, S. 2004. An Integrative Review of Material Possession Attachment. Academy of Marketing Science Review. 1-39. 
+
+Miller, D. 1987. Material Culture and Mass Consumption, New York: Blackwell.
+
+Brown,  B.  and  Sellen,  A.  Sharing  and  Listening  to Music.    In    K.    O’Hara    and    B.    Brown,    eds., Consuming Music Together: Social and Collaborative    Aspects of    Music    Consumption Technologies.  Springer-Verlag,  Berlin/Heidelberg, 2006, 37–56.
+
+Greengard, S. Digitally possessed. Communications of the ACM 55, 5 (2012), 14–16
+
+Odom,  W.,  Zimmerman,  J.,  and  Forlizzi,  J.  Virtual Possessions. (2010), 368–371.
