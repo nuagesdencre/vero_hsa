@@ -60,7 +60,10 @@ Part of the debrief
 Received comment regarding initial plan: _This is a lot for the time frame
 available_ 
 
-- Questionnaire (<100 >400)
+- Survey (<100 >400)
+  > A questionnaire is any written set of questions, while a survey is both the set of questions and the process of collecting, aggregating, and analyzing the responses from those questions.
+  https://www.surveymonkey.com/mp/survey-vs-questionnaire/
+
 - Interview (5-8 people)
 
 Aiming for confidence rate <70 (80%)
@@ -76,10 +79,12 @@ ETHICS FORM
 - whatis missing? (contact details, email address)
 
 QUESTIONNAIRE
-Make the below part of the questionnaire and not the informed consent 
 
->You are invited to participate further in the research study beyond this questionnaire. If you desire to do so, please provide your contact details below.
->We will not share information about you to anyone outside of the research team. Your responses and your participation to the current questionnaire will remain anonymous.
+--> it is really a survey
+Make the below part of the ~~questionnaire~~ survey and not the informed consent 
+
+>You are invited to participate further in the research study beyond this ~~questionnaire~~ survey. If you desire to do so, please provide your contact details below.
+>We will not share information about you to anyone outside of the research team. Your responses and your participation to the current quest~~questionnaire~~ survey ionnaire will remain anonymous.
  
 > Name / Email address: 
 

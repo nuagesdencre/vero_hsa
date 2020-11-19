@@ -38,13 +38,13 @@ A pilot study will be conducted with a limited number of participants (likely pe
 
 #### *Data collection methods*
 
-- Questionnaire
+- Survey
  
-  A questionnaire will be presented to any participants answering the call to action. The questionnaire will take approximatively 5 to 7 minutes to complete.
+  A ~~questionnaire~~ survey will be presented to any participants answering the call to action. The ~~questionnaire~~ survey will take approximatively 5 to 7 minutes to complete.
 
 - Semi-structured interviews 
 
-  I will build on the existing data gathered during the questionnaire by conducting semi-structured interviews.
+  I will build on the existing data gathered during the ~~questionnaire~~ survey by conducting semi-structured interviews.
 
   - Interviews
     
@@ -64,7 +64,7 @@ A pilot study will be conducted with a limited number of participants (likely pe
 
 #### *Study population*
 
-  - For the questionnaire: sample target of 100-400 people 
+  - For the ~~questionnaire~~ survey: sample target of 100-400 people 
   - For the semi-structured interviews: 5 to 8 people
 
   I aim for a confidence rating of 80%.
