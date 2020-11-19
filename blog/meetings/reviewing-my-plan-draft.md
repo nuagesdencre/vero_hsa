@@ -57,12 +57,14 @@ Part of the debrief
 
 
 ### Data gathering methods
-This is a lot for the time frame available
-Questionnaire (<100 >400)
-Aiming for confidence rate <70
-Put in the details of the sample calculator
-Interview (5-8 people)
+Received comment regarding initial plan: _This is a lot for the time frame
+available_ 
 
+- Questionnaire (<100 >400)
+- Interview (5-8 people)
+
+Aiming for confidence rate <70 (80%)
+- Put in the details of the sample calculator
 
 ## Questions raised
 
