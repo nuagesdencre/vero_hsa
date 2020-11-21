@@ -1,12 +1,12 @@
 ---
 path: /blog/research/4
 date: 2020-11-17T07:49:31.634Z
-title: Updated plan
+title: Updated plan 
 ---
 
 ### **Project Name**
 
- Compare and contrast the relationship that music consumers have with physical music collections and music streaming services
+Compare and contrast the relationship that Millennials music consumers have with physical music collections and music streaming services.
 
 
 ### **Research Question**
@@ -16,19 +16,27 @@ Do Millenials have the same relationship with their curated physical music colle
 
 ### Research Aim: 
 
-Based on existing literature, collectors feel very strongly about their physical possessions even at a time where artefacts tend to become digital.
-I want to see how Millenial music lovers relate to the music they stream in comparison to how they relate to their music collected in physical storage (CDs, vinyls, etc.). I want to collect data to compare usage (frequency and context), longevity (listening patterns or preference over time, discovery and sharing habits), curation (organisational structure/playlists and personal signification).  
-I want to glean the Millenials overall satisfaction with both ways of accessing music and gain insight to establish if going forward, technology can bridge any relationship gap.
+
+Based on existing literature, collectors feel very strongly about their physical possessions even at a time where artefacts tend to become digital. I want to see how music lovers from the generational cohort referred to as ’Millennials ’ relate to the music they stream in comparison to how they relate to their music collected in physical storage (CDs, vinyls, etc.). I want to collect data to compare usage (frequency and context), persistence (listening patterns or preference over time, discovery and sharing habits), curation (organisational structure/playlists and personal signification).
+
+
+My goal is to get an understanding of the Millennials  overall interaction with both ways of accessing music, which in turn will clarify if technology can bridge any existing gap left by moving possessions away from the physical world. 
+
+Multiple studies (Golstein, Van Den Hoven, Frolich and Sellen (2012); Csikszentmihalyi and Rochberg-halton (1981); Kirk and Sellen (2010); Odom et al. (2009)) have investigated the different explanations behind the physical collections of a household. In the context of their research, they approached members of a family to explore the emotional relationships with their prized possessions and the transition towards the digital world. 
+
+This wealth of research relevant to digital items taking more presence in the everyday life of consumers (eBooks, music, digital photographs, movies) offers very little insight from the point of view of a generation that grew up with both options. Odom and Forlizzi (2011) did more recently observe teenagers and their emotional attachment to digital artefacts, which is closer to what I propose to do in the context of my own research study. As mentioned in Vlachos and Vrechopoulos’ Emerging Customer Trends Towards Mobile Music Services: “While the demand for music products and services seems to be quite strong, on the other hand there is a slump (both in revenues and units) in the sales of the traditional vehicle for experiencing music - that is music CDs.”(2004). This article is over 15 years old but it still applies today. While technology might be a boon on certain levels, such as convenience and affordability, it might still lack in terms of persistence and emotional value. 
+
+Growing up with the option to listen to their parents’ vinyls and build their own collection of CDs, Millennials might interact differently and value digital music accessible via streaming services in a different light. I aim to investigate the usage, the persistence and the curation habits of an intangible version of an offline, physical collection – and see if they are equivalent in the eyes of the participants. 
 
 
 ### Project plan
 
 Proposed research schedule
 
-Pilot Study - Start January 2021
-Data collection - January 2021
-Data coding February 2021
-Data analysis March 2021
+- Pilot Study - Start January 2021
+- Data collection - January 2021
+- Data coding February 2021
+- Data analysis March 2021
 
 ### Design and methodology
 
@@ -37,6 +45,15 @@ Using methodological triangulation to draw data from different sources at differ
 A pilot study will be conducted with a limited number of participants (likely peers) as a trial to ensure the methods are viable. The pilot study participants will not be involved in the main study of course.
 
 #### *Data collection methods*
+
+A survey will be presented to any participants answering the call to action. The survey will take approximatively 5 to 10 minutes to complete. The survey will be submitted anonymously, however at the end of the that survey, an option to participate further will be given and give authorisation to contact for a follow up interview or in a focus group.
+
+The focus of the survey will be to gather data to obtain initial insight and identify participants for an interview, which will allow more qualitative data gathering. I will also identify which participants use the streaming service Spotify, for which prior to the interview, I will request streaming history records. Accessing this data can take up to 30 days but can be obtained in reality within a week, so I will take this time constraint in consideration. I will provide guidelines to assist the participants with the data retrieval process.
+
+The data obtained from Spotify will be analysed for trends in usage and persistence.
+The interview will be semi-structured and punctuated by open-ended questions. It will be recorded to facilitate the analysis of data. The interview will last about 30 minutes and will be done virtually
+
+**TL;DR**
 
 - Survey
  
@@ -106,6 +123,10 @@ The documents and recordings containing participants’ information details will
 ___
 
 Bibliography
+
+**Unordered - to be cleaned up**
+
+
 
 Sharp, Helen, et al. Interaction Design : Beyond Human-Computer       Interaction, John Wiley & Sons, Incorporated, 2019. ProQuest Ebook Central, http://ebookcentral.proquest.com/lib/dcu/detail.action?docID=5746446.
 Created from dcu on 2020-11-08 08:01:50.
