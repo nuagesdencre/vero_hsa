@@ -31,6 +31,10 @@ Quantitative data
 - Surveys
 
 ___
+
+## Curation, Collection or Accumulation
+
+
 Toups, Z. O., Crenshaw, N. K., Wehbe, R. R., Tondello, G. F., & Nacke, L. E. (2016). “The collecting itself feels good”: Towards collection interfaces for digital game objects. CHI PLAY 2016 - Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play, 276–290. https://doi.org/10.1145/2967934.2968088
 
 **interesting survey in annex!**
