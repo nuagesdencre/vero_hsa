@@ -14,36 +14,36 @@ title: Third meeting
 Ethics: Additional information
 
 *What data you are collecting*
-```
+
 Gender (from the survey)
 Email (from the survey)
 Age range (from the survey)
 Location (from the survey)
 Music streaming history 
 Playlists (from Spotify playlist history json file)
-```
+
 *How collecting, analysing, storing and deleting* 
-```
+
 The survey will be made and distributed using an online tool (Qualtrics, Survey Monkey).
 
 The data gathered from the survey and the interview will be analysed thematically. The Spotify data will be used to support the themes identified.
 
 The data will be collected and stored in my DCU account Google drive.The data will be deleted at the end of the academic year.
-```
+
 *Justification for low risk*
-```
+
 There will be no data collected outside of the listed items; this data will be kept secure in the Google Drive assigned to my DCU account. The data will be deleted at the end of the academic year. The data will be anonymised and I will make use of pseudonyms when appropriate (i.e. quoting an interview statement).
 
 The subject of the research study does not target sensitive content or input from the participants. However, should there be any unease or discomfort, the participants can withdraw, refuse to answer the question and opt out at any point in the survey and interview process. Links to support resources will be provided at the end of the survey and the interview.
-```
+
 
 *Vulnerability*
-```
+
 The subject of the research study does not target sensitive content or input from the participants. However, should there be any unease or discomfort, the participants can withdraw, refuse to answer the question and opt out at any point in the survey and interview process. Links to support resources will be provided at the end of the survey and the interview.
-```
+
 
 *Justification for sample size*
-```
+
 Based on the reported Irish user base for Spotify, I used the sample size calculator to estimate the correct sample size to reach a confidence level of over 90%. I rounded up the figure provided to 400. I have since been advised that a level of confidence over 80% would be perfectly acceptable, hence I revise my sample pool for the survey to 208 for an estimated level of confidence of 85%.The sample size for interview remains the same as it is an acceptable sample size in the context of qualitative interview and is reflective of the time and resources available for this project.
 
 https://www.surveymonkey.com/mp/sample-size-calculator/
@@ -51,7 +51,7 @@ https://www.qualtrics.com/blog/calculating-sample-size/
 
 https://www.irishtimes.com/culture/music/spotify-reveals-ireland-s-most-streamed-artists-in-2020-1.4423853
 “Spotify has more than 600,000 paid subscribers in Ireland, while upwards of 1.3 million people are thought to have used its free, ad-funded service at some point.”
-```
+
 
 *Detail out the spotify data*  
 
