@@ -1,6 +1,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { Typography} from "@material-ui/core"
+import {KeyboardArrowRightIcon} from '@material-ui/icons/KeyboardArrowRight';
 import { Link, graphql, StaticQuery } from "gatsby"
 
 class BlogRoll extends React.Component {
@@ -37,8 +38,8 @@ class BlogRoll extends React.Component {
                     {post.excerpt}
                     <br />
                     <br />
-                    <Link className="button" to={post.frontmatter.path}>
-                      Keep Reading →
+                    <Link to={post.frontmatter.path}>
+                    <KeyboardArrowRightIcon style={{ fontSize: 40 }} /> Keep Reading →
                     </Link>
                   </p>
                 </article>
