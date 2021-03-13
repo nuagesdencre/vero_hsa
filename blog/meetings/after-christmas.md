@@ -1,6 +1,6 @@
 ---
 path: /blog/meetings/6
-date: 2020-01-11T22:31:42.607Z
+date: 2021-01-11T22:31:42.607Z
 title: After Christmas
 ---
 

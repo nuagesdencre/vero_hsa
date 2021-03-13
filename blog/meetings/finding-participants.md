@@ -1,6 +1,6 @@
 ---
 path: /blog/meetings/7
-date: 2020-01-17T22:31:42.607Z
+date: 2021-01-17T22:31:42.607Z
 title: Finding participants
 ---
 
