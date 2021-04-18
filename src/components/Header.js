@@ -14,16 +14,16 @@ const Header = () => (
     <nav>
       <ul className={styles.mainNav}>
         <li>
-          <Link to="/about" activeClassName={styles.activeNav}>
-            About
+          <Link to="/reflections" activeClassName={styles.activeNav}>
+            Reflections
+          </Link>
+        </li>
+        <li>
+          <Link to="/infographics" activeClassName={styles.activeNav}>
+          Infographics
           </Link>
         </li>
         <Categories activeClassName={styles.activeNav} />
-        <li>
-          <Link to="/contact" activeClassName={styles.activeNav}>
-            Contact
-          </Link>
-        </li>
       </ul>
     </nav>
   </header>
