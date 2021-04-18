@@ -1,6 +1,7 @@
 ---
 date: 2021-01-13
 title: "Setting up Qualtrics"
+cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Survey
 tags:

@@ -1,6 +1,7 @@
 ---
 date: 2020-10-18
 title: "First Post - HSA Journal"
+cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Introduction
 tags:

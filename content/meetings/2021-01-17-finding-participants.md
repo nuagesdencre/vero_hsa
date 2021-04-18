@@ -1,6 +1,7 @@
 ---
 date: 2021-01-17
 title: "Finding participants"
+cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Survey
 tags:

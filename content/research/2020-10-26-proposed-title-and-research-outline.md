@@ -1,6 +1,7 @@
 ---
 date: 2020-10-26
 title: "Proposed title and research outline"
+cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Reading
 tags:

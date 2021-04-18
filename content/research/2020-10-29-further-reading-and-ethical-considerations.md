@@ -1,6 +1,7 @@
 ---
 date: 2020-10-29
 title: "Further reading and ethical considerations"
+cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Reading
 tags:

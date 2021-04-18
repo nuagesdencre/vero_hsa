@@ -1,6 +1,7 @@
 ---
 date: 2020-12-18
 title: "Survey status after December revision"
+cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Reading
 tags:

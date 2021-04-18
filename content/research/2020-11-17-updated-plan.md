@@ -1,6 +1,7 @@
 ---
 date: 2020-11-17
 title: "Updated plan"
+cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Reading
 tags:

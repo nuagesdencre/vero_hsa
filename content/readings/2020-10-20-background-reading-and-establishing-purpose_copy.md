@@ -1,6 +1,7 @@
 ---
 date: 2020-10-20
 title: "Background reading (continued)"
+cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Research
 tags:

@@ -1,6 +1,7 @@
 ---
 date: 2020-10-18
 title: "Background reading and establishing purpose"
+cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Research
 tags:

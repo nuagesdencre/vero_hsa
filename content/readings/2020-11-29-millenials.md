@@ -1,6 +1,7 @@
 ---
 date: 2020-11-29
 title: "Further readings - Millenials"
+cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Research
 tags:

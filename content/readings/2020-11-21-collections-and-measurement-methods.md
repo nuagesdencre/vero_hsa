@@ -1,6 +1,7 @@
 ---
 date: 2020-11-21
 title: "Collections and measurement methods"
+cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Research
 tags:
