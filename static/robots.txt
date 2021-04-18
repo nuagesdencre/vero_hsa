@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: */tags/
+Disallow: */categories/
+
+sitemap: vero-hsa-journal.netlify.app/sitemap.xml
