@@ -20,7 +20,7 @@ const Header = () => (
         </li>
         <li>
           <Link to="/infographics" activeClassName={styles.activeNav}>
-          Infographics
+            Infographic
           </Link>
         </li>
         <Categories activeClassName={styles.activeNav} />

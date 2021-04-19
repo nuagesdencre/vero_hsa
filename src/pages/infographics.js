@@ -6,8 +6,8 @@ import config from '../../data/SiteConfig'
 const InfographicsPage = () => (
   <Layout>
     <main>
-      <Helmet title={`Infographics | ${config.siteTitle}`} />
-      <h1>Infographics</h1>
+      <Helmet title={`Infographic | ${config.siteTitle}`} />
+      <h1>Infographic</h1>
       <p>To be confirmed</p>
     </main>
   </Layout>

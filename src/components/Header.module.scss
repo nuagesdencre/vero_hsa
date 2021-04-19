@@ -5,7 +5,7 @@ header {
   padding: 1rem;
   position: sticky;
   top: 0;
-  background: hsla(0, 0%, 100%, 0.75);
+  background: hsla(0, 0%, 100%, 0.749);
   -webkit-backdrop-filter: blur(7px);
   backdrop-filter: blur(7px);
   z-index: 9;
@@ -76,6 +76,7 @@ header {
   header {
     display: block;
     height: 120px;
+    background-color:#ffffff;
   }
 
   nav {
@@ -83,7 +84,9 @@ header {
 
     ul {
       margin: 0;
+      background-color:#ffffff;
     }
+
   }
 }
 

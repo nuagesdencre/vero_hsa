@@ -10,7 +10,7 @@ const Bio = ({ config, expanded }) => (
       alt={config.userName}
     />
     <div>
-      Written by <strong>{config.userName}</strong> who wishes you a lovely day.
+      Written by {config.userName} who wishes you a lovely day.
       {` `}
       <Follow
         username={config.userTwitter}

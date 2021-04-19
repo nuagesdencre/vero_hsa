@@ -13,7 +13,7 @@ While I have been keeping track of my readings, at the time of writing the liter
 
 I have decided to structure the articles I have saved in separate folders as I go through them again.
 
-![Folder Structure, work in progress]('..\content\images\avatar.jpg')
+![Folder Structure, work in progress](folder_structure.png)
 
 
 I am also combing through the articles and grouping them using tables in attempt to retrieve the observations more easily.

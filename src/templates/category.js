@@ -10,7 +10,7 @@ const CategoryTemplate = ({ data, pageContext }) => (
     <main>
       <Helmet title={` "${pageContext.category}" - ${config.siteTitle}`} />
       <h1>
-Category:
+        Category:
         {' '}
         {pageContext.category}
       </h1>
