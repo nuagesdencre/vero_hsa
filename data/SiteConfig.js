@@ -11,12 +11,12 @@ const config = {
   siteFBAppID: '', // FB Application ID for using app insights
   dateFromFormat: 'YYYY-MM-DD', // Date format used in the frontmatter.
   dateFormat: 'DD/MM/YYYY', // Date format for display.
-  userName: 'VS', // Username to display in the author segment.
+  userName: 'Veronique S', // Username to display in the author segment.
   userEmail: 'veronique.savard2@mail.dcu.ie', // Email used for RSS feed's author segment
   userTwitter: 'bottleofbeetles', // Optionally renders "Follow Me" in the Bio segment.
   userGitHub: 'nuagesdencre', // Optionally renders "Follow Me" in the Bio segment.
   userLocation: 'Dublin, Ireland', // User location to display in the author segment.
-  userAvatar: '', // User avatar to display in the author segment.
+  userAvatar: 'verobw.png', // User avatar to display in the author segment.
   userDescription:
     "VS is a HDID student and a software developer.", // User description to display in the author segment.
   copyright: 'Copyright © 2021. All rights reserved.', // Copyright string for the footer of the website and RSS feed.

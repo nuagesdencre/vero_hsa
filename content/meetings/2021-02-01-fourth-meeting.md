@@ -8,22 +8,22 @@ tags:
     - draft
 ---
 
-February 1rst
+## Meeting on February 1rst
 
 
 Number of survey responses
 Submitted survey link in Facebook music groups
-98 responses (- 7 in progress)
+over responses (- 7 in progress, a few are partial responses)
 
-Discarding partial responses
+- Confirming with Rosarie if I am discarding partial responses
 
-Lit review updated
+- Lit review: updated
 
-Review Interview questions
-Prepared Interview email invitation and sent 2 as pilot
-Support Links and resources
+- Review Interview questions
 
-Calendly: https://calendly.com/dcu-vs/interview-music-collections
+As of today, I prepared an interview email invitation and sent it to 2 participants as pilot.
 
+- Preparing support Links and resources
 
-Interview Email invitations here
+- I set up a Calendly: https://calendly.com/dcu-vs/interview-music-collections
+
