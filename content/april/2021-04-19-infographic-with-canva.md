@@ -16,4 +16,5 @@ tags:
 - Break down the narrative of the research process
 - Demonstrate results (or some of the most relevant results)
 
-## Canva
+- Canva
+- Venngage (https://venngage.com/blog/6-comparison-infographic-templates/)
