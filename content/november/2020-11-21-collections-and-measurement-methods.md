@@ -18,7 +18,7 @@ https://www.freecodecamp.org/news/types-of-data-in-statistics-nominal-ordinal-in
 > Nominal data
 > Nominal data are used to label variables without any quantitative value. Common examples include male/female (albeit somewhat outdated), hair color, nationalities, names of people, and so on. 
 
->Ordinal data
+> Ordinal data
 > The key with ordinal data is to remember that ordinal sounds like order - and it's the order of the variables which matters. Not so much the differences between those values.
 > Ordinal scales are often used for measures of satisfaction, happiness, and so on.
 
