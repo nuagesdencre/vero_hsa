@@ -8,7 +8,7 @@ const InfographicsPage = () => (
   <Layout>
     <main>
       <Helmet title={`Infographic | ${config.siteTitle}`} />
-      <h1>Infographic: Research process and results</h1>
+      <h1>Infographic: Research study process and results</h1>
       <img src={picture} alt="infographic" />
     </main>
   </Layout>
