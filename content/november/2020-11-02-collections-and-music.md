@@ -3,7 +3,7 @@ date: 2020-11-02
 title: "Collections and music"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
-    - Research
+    - Groundwork
 tags:
     - literature
 ---

@@ -5,6 +5,7 @@ import Header from '../components/Header'
 import config from '../../data/SiteConfig'
 import styles from './index.module.scss'
 
+
 const MainLayout = ({ children }) => (
   <>
     <Header />

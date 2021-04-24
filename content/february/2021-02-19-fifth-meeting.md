@@ -1,6 +1,6 @@
 ---
 date: 2021-02-19
-title: "Fifth meeting"
+title: "Fifth meeting with my supervisor"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Meeting

@@ -3,7 +3,7 @@ date: 2020-10-05
 title: "Preparing the journal"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
-    - Introduction
+    - Groundwork
 tags:
     - journal
 ---

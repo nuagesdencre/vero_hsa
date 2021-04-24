@@ -3,7 +3,7 @@ date: 2021-01-04
 title: "Organising literature"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
-    - Research
+    - Groundwork
 tags:
     - literature
 ---

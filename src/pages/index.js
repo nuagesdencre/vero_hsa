@@ -1,6 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
+import { Container } from "@material-ui/core"
 import Layout from '../layout'
 import PostListing from '../components/PostListing'
 import SEO from '../components/SEO'
@@ -11,6 +12,9 @@ const Index = ({ data }) => (
     <main>
       <Helmet title={config.siteTitle} />
       <SEO />
+      <Container>
+        <h1>This is Veronique's research journal. The entries appear in descending order.</h1>
+      </Container>
       <PostListing postEdges={data.allMarkdownRemark.edges} />
     </main>
   </Layout>

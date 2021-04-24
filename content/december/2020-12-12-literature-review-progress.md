@@ -3,7 +3,7 @@ date: 2020-12-18
 title: "Draft Literature review"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
-    - Literature Review
+    - LitReview
 tags:
     - draft
 ---

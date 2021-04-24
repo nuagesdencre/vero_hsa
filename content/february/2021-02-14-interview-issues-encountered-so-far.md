@@ -8,6 +8,15 @@ tags:
     - issues
 ---
 
+## Survey data
+
+Here are two word clouds generated using the comments received within the survey.
+
+![Word cloud from comments regarding physical music collections](q22.png)
+![Word cloud from comments regarding music streaming service services](q52.png)
+
+## Interview issues so far
+
 Technical issues
 
 - Using Otter.ai (free version) with the phone while relying on the phone to pick up audi seems to clash

@@ -1,6 +1,6 @@
 ---
 date: 2021-02-01
-title: "Fourth meeting"
+title: "Fourth meeting with Rosarie"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Meeting

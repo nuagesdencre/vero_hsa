@@ -8,15 +8,21 @@ tags:
     - pilot
 ---
 
-Interview pilot
+## Interview pilot
 
+
+I have only started to review the survey responses; in order to contact participants for the follow-up interview, I aim to speak with a representative sample within the pool of respondents. As over 40 people shared their contact details to participate in the interview, I want to select 5 to 7 of them using a sampling frame based on year of birth (within the Millennial generational cohort or not), ownership of physical music records and use of music streaming services. Since the initial survey was submitted anonymously and the contact details provided in a separate submission, I will ask to confirm those details in an email preceding the interview.
+
+With the help of a friend,  I have conducted a pilot interview today which turned out to be incredibly necessary. While the semi-structured interview questions I have prepared thus far flow nicely, I have a tendency to 'complete' them during the conversation, changing into leading questions -- something to watch out for in my actual interviews. I also have to ensure the technology I plan to use is in order before any recording starts.
+
+### TL:DR;
 - flow was less evident
 - be careful not to give leading questions
 - keep conversation natural and advise where we are in the interview
 
+### Updated interview questions as a result**
 
-
-**Updated interview questions as a result**
+----
 
 **Introduction**
  

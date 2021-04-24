@@ -1,9 +1,9 @@
 ---
-date: 2020-11-17
+date: 2020-11-18
 title: "Updated plan"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
-    - Reading
+    - Groundwork
 tags:
     - plan
 ---

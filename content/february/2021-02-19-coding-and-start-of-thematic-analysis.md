@@ -3,9 +3,9 @@ date: 2021-02-19
 title: "Coding and start of thematic analysis"
 cover: "https://unsplash.it/400/300/?random?TheFallenTime"
 categories: 
-    - Data Analysis
+    - Analysis
 tags:
-    - analysis
+    - themes
 ---
 
 ## Thematic analysis

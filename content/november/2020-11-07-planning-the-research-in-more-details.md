@@ -3,7 +3,7 @@ date: 2020-11-07
 title: "Planning the research in more details"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
-    - Reading
+    - Groundwork
 tags:
     - ethics
 ---

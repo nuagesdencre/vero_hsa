@@ -3,7 +3,7 @@ date: 2020-10-26
 title: "Readings and summary of current findings"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
-    - Research
+    - Groundwork
 tags:
     - literature
 ---

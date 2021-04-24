@@ -3,7 +3,7 @@ date: 2020-11-21
 title: "Collections and measurement methods"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
-    - Research
+    - Groundwork
 tags:
     - literature
     - collections
@@ -48,7 +48,3 @@ I want to collect data to compare usage (frequency and context), persistence (li
 - Joel M. Hektner, Jennifer A. Schmidt, and Mihaly Csikszentmihalyi, 2007. Experience sampling method: Measuring the quality of everyday life. Thousand Oaks, Calif: Sage.
 
 
-
-___
-
-## Refer to [Blog Post - Background reading](/blog/readings/2) (continued) for Collection and curation insights

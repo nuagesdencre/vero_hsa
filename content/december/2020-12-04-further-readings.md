@@ -3,7 +3,7 @@ date: 2020-12-04
 title: "Further readings"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
-    - Research
+    - Groundwork
 tags:
     - literature
 ---

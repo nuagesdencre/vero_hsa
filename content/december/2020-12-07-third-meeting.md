@@ -1,6 +1,6 @@
 ---
 date: 2020-12-07
-title: "Third Meeting"
+title: "Third Meeting with my supervisor"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
     - Meeting

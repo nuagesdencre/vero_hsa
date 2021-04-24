@@ -3,9 +3,10 @@ date: 2020-11-17
 title: "What I want to extract from the survey"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
-    - Goals
+    - Groundwork
 tags:
     - plan
+    - goals
 ---
 ## Where to recruit participants
 
