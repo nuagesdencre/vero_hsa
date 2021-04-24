@@ -3,9 +3,10 @@ date: 2020-10-26
 title: "Proposed title and research outline"
 cover: "https://unsplash.it/1152/300/?random?SuperLong"
 categories: 
-    - Reading
+    - Groundwork
 tags:
     - ethics
+    - draft
 ---
 
 ## This proposal is outdated as of November 6th 2020. 
