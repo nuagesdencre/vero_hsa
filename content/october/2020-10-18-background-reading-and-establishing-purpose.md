@@ -7,8 +7,10 @@ categories:
 tags:
     - literature
 ---
+## Exploring the literature
 
 I reviewed the different resources provided on Loop.
+
 I am currently perusing over quite a few papers -- I am finding some interesting content, especially relevant to ebooks.
 
 

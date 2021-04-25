@@ -15,25 +15,29 @@ ___
 
 Analysing how music consumers can relate to the music they access using current streaming services as they would with personal music collections
 
+---
 **An explanation for the choice of topic:**
 
 As digital devices are now readily accessible to the general population, there is a move away from material possession in terms of collection and access. There is an interest in accumulating collection digitally, however, it does not mean that they are curated or as relevant to the user as a personal collection.
 
 As streaming services offer an almost permanent access to enormous libraries, there is a new relationship with the content. Previous research shows that collectors refer to, self-identify and create an emotional relationship with physical artefacts even if they are left unused. Could that still be the case with digital music?
 
+---
+
 **Outline of research to be undertaken & how data will be analyzed**
 
-*Gathering qualitative data*
+## Gathering qualitative data*
 
-• Group observation and discussion session
+- Group observation and discussion session
 
-• Semi-structured interviews
+- Semi-structured interviews
 
 Both the interviews and the group observation would be conducted online. Guidelines and a consent form will be provided beforehand.
 
-*Quantitative data*
 
-• Questionnaire
+## Quantitative data*
+
+- Questionnaire
 
 The questionnaire would be directed to a pool of subjects over 18.
 
@@ -43,6 +47,7 @@ The data gathered during the research will remain absolutely confidential and an
 
 I propose to find which streaming service among the top three (Spotify, Youtube Music, Deezer) is preferred and from there, identify why. Lastly, I want to distinguish collection patterns and access patterns to the music -- is one streaming service more relevant in a certain situation? Does it affect the social presentation of the individuals? Moreover, I want to see what distinguishes the use of a streaming service over the purchase of a digital album or song from the online marketplaces such as Amazon Music or Itunes. Is there a storage issue, as streaming offers a more ephemeral data usage?
 
+---
 **Journal and research so far (WIP):** <https://vero-hsa-journal.netlify.app/blog/>
 
 **Preliminary Bibliography**

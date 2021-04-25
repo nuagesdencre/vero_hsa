@@ -7,7 +7,7 @@ categories:
 tags:
     - literature
 ---
-Different streaming services 
+## Different streaming services 
 
 - Spotify
 
@@ -15,7 +15,7 @@ Different streaming services
 
 - Deezer
 
-Purchasing songs digitally using online marketplaces such as Youtube Music, Apple (Itunes), Amazon
+## Purchasing songs digitally using online marketplaces such as Youtube Music, Apple (Itunes), Amazon
 
 > https://www.lifewire.com/best-online-music-sites-for-downloading-songs-2438415
 

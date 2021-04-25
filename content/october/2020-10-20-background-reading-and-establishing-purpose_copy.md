@@ -7,7 +7,7 @@ categories:
 tags:
     - literature
 ---
-**Current streaming services**
+## Continuing to look into current streaming services**
 
 - Spotify
 - Apple Music
@@ -19,15 +19,16 @@ https://uk.pcmag.com/services-players/5359/the-best-online-music-streaming-servi
 https://blog.teufelaudio.com/buying-music-online/
 
 Reference to radio stations & randomisation system
+
 ___
 
-Targeting non-musicians
+### Targeting non-musicians
 --> music consumers
 
 - Music theft? Legal implications?
 ___
 
-Gathering qualitative data
+### Gathering qualitative data
 - Semi-structured interviews
 - Group observation and discussion
 

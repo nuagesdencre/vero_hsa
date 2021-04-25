@@ -8,7 +8,7 @@ tags:
     - ethics
 ---
 ## HSA Coursebook
-## Block 1, UNit 2 - Ethics in Research
+## Block 1, Unit 2 - Ethics in Research
 ## (Summary)
 
 Integrity

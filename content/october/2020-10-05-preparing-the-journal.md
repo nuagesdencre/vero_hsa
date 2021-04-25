@@ -17,7 +17,7 @@ tags:
 
 ## Ideas
 
-- Audiphiles
+- Audiophiles
 -Collectors
 - perspectives on virtual collections
 - user ex perience, emotional connection, relationship with purchases
