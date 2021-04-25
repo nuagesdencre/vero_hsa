@@ -16,17 +16,17 @@ const Header = () => (
     <nav>
       <ul className={styles.mainNav}>
         <li>
-          <Link to="/" activeClassName={styles.activeNav}>
+          <Link to="/" activeClassName={styles.standalone}>
             <HomeRoundedIcon />
           </Link>
         </li>
         <li>
-          <Link to="/reflections" activeClassName={styles.activeNav}>
+          <Link to="/reflections" activeClassName={styles.standalone}>
             Reflections
           </Link>
         </li>
         <li>
-          <Link to="/infographics" activeClassName={styles.activeNav}>
+          <Link to="/infographics" activeClassName={styles.standalone}>
             Infographic
           </Link>
         </li>

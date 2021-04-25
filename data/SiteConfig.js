@@ -19,7 +19,7 @@ const config = {
   userAvatar: 'verobw.png', // User avatar to display in the author segment.
   userDescription:
     "VS is a HDID student and a software developer.", // User description to display in the author segment.
-  copyright: 'Copyright © 2021. All rights reserved.', // Copyright string for the footer of the website and RSS feed.
+  copyright: 'Copyright VSQ © 2021. All rights reserved.', // Copyright string for the footer of the website and RSS feed.
   themeColor: '#c62828', // Used for setting manifest and progress theme colors.
   backgroundColor: 'red' // Used for setting manifest background color.
 }

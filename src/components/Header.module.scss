@@ -42,12 +42,18 @@ header {
       font-size: 0.8rem;
     }
 
+
   }
 
   .activeNav {
     color: #4f647d;
     font-weight: 700;
-  }
+  }   
+
+  .standalone {
+      color: #0b4996;
+      font-weight: 900;
+    }
 }
 
 svg{
