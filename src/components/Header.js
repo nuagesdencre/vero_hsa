@@ -1,18 +1,25 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import HomeRoundedIcon from '@material-ui/icons/HomeRounded';
 import config from '../../data/SiteConfig'
 import Categories from './Categories'
 import styles from './Header.module.scss'
+
 
 const Header = () => (
   <header>
     <h1>
       <Link to="/" activeClassName={styles.activeNav}>
-        {config.siteTitle}
-      </Link>
+        {config.siteTitle} 
+      </Link> 
     </h1>
     <nav>
       <ul className={styles.mainNav}>
+        <li>
+          <Link to="/" activeClassName={styles.activeNav}>
+            <HomeRoundedIcon />
+          </Link>
+        </li>
         <li>
           <Link to="/reflections" activeClassName={styles.activeNav}>
             Reflections
