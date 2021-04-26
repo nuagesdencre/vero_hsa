@@ -10,8 +10,6 @@ tags:
 
 ## Bibliography
 
-# Bibliography
-
 Attride-Stirling, J. (2001) &#39;Thematic networks: An analytic tool for qualitative research&#39;. _Qualitative Research_, 1(3), 385-405.
 
 Azam, R., Danish, M. and Akbar, S. (2012) &#39;Consumption Style among Young Adults toward Their Shopping Behavior: An Empirical Study in Pakistan&#39;. _Business and Management Research_, _1_. Available at: https://doi.org/10.5430/bmr.v1n4p109 (Accessed: 1 April 2021)
